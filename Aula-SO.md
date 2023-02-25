@@ -9,4 +9,6 @@ CPU -> circuito dentro do processador que trabalha com dados inteiros
 - BOOT
 
 > BIOS se fala "O BIOS" e não "A BIOS".
+
+#
 > O software bios serve para administrar as funções dos componentes e software.
